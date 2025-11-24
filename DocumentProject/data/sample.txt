@@ -1,0 +1,4 @@
+This is a sample text file for benchmarking EfficientDocument and BasicDocument.
+We use this file instead of War and Peace because downloading large files is not possible here.
+The purpose of benchmarking is to compare performance, so the exact text content does not matter.
+You can repeat this text many times to increase its size.
